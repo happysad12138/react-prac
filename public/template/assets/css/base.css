@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+body,html{height:100%;background: url(../images/sos.png);}
+html{font-size: 26.67vw}
+*{margin:0;padding:0;}/*去除默认空隙*/
+
+body,ol,ul,h1,h2,h3,h4,h5,h6,p,th,td,dl,dd,form,fieldset,legend,input,textarea,select,td,img{margin:0;padding:0;}
+body{font:12px  “宋体”; word-wrap:break-word;}/*数字字母自动换行*/
+a,u,s,del{color:#666;text-decoration:none} 
+fieldset ,a ,img,.bor0 {border:0;}
+em,b{font-style:normal;font-weight:100;}
+li{list-style:none;}
+/*img{vertical-align:middle;}*/ /*或者display：block 去除图片底部的空隙*/table{border-collapse:collapse;}
+.ind2{text-indent:2em;}
+textarea{ resize:none;}/*去除输入框的小三角*/
+

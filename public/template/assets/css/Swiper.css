@@ -1,0 +1,13 @@
+
+.bo ul li{width:6.4rem;float:left;position: relative;height:100%}
+.bo ul li img{width:100%; display:block;}
+
+
+.bo ol{position:absolute; right:0.2rem;bottom:0.2rem;}
+.bo ol li{width:0.15rem;height:0.15rem; background:#5477b2; float:left; border-radius:50%; margin-right:0.08rem;}
+.bo ol li.active{ background:#fff;}
+
+
+.banner{width: 100%;}
+
+.bo{width:90%;border: 1px solid #D8DADC;margin: .1rem auto;overflow: hidden;height:2.24rem;}

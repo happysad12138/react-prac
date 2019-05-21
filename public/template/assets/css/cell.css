@@ -1,0 +1,44 @@
+
+.cell{padding: 0 .1rem}
+.cells{
+        margin: 2em 0 2em;
+        padding: 1em;
+    border: 1px solid #D8DADC;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.celltop{display: flex;max-height: 3.84rem}  
+.cellbott{display: flex;max-height: 3.84rem}  
+.celltl{
+    
+    width: 50%;
+    padding: .08rem; 
+    box-sizing: border-box;
+    }  
+
+.cells a{display: block;}
+.cells a img{
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+.cells h3{
+    font-size: 1em;
+    line-height: 1.4em;
+    color: #26313b;
+    margin: 1em 0 0;
+    font-weight: 700;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.cells p{
+     display: block;
+    color: #302e2e;
+    font-size: 1em;
+    line-height: 1.8em;
+    margin: 1em 0;
+    font-weight: 400;
+  
+}
+

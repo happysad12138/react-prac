@@ -1,0 +1,44 @@
+.reg{width:90%;padding:.1rem;margin: 0 auto}
+.regbox{width:95%;padding:.1rem;border: 1px solid #D8DADC;margin: 0 auto}
+
+.regarea{padding: 0;
+    margin: 2em 0 0;}
+ .regarea h3{font-size: 1.2em;
+    color: #26313b;
+    font-size: 1.4em;
+    padding-bottom: 0.5em;
+    font-weight: 700;
+    font-family: 'Libre Baskerville', serif;
+    margin-bottom: 10px;
+    line-height: 1.1;}
+    .regarea p{ margin: 0 0 1em 0;
+        color: #302e2e;
+        display: block;
+        font-size: 1em;
+        
+        line-height: 1.8em;}
+form{padding: 1em 0;}
+form div{padding: 0 0 2em 0;}
+form div span{
+color: #999;
+    font-size: 0.8125em;
+    padding-bottom: 0.2em;
+    display: block;
+    text-transform: uppercase;
+}
+form div input{
+border: 1px solid #26313b;
+    outline-color: #26313b;
+    width: 96%;
+    font-size: 1em;
+    padding: 0.5em;
+}
+form a{color: #1B242F;}
+form .regbtn{background: #26313b;
+    color: #FFF;
+    font-size: 1em;
+    padding: 0.6em 1.2em;
+    display: inline-block;
+    text-transform: uppercase;
+    border: none;
+    outline: none;}
